@@ -1,8 +1,8 @@
 Project Title
-# Windows 10 File Management and Folder Permissions in Oracle VirtualBox
+###  Windows 10 File Management and Folder Permissions
 
-## Overview
-This project demonstrates **basic File Management tasks** and **folder permission setup** in Windows 10 using Oracle VirtualBox. It includes step-by-step instructions, screenshots, and notes.
+# ## Overview
+This project demonstrates **basic File Management tasks** and **folder permission setup** in Windows 10 . It includes step-by-step instructions, screenshots, and notes.
 
 ## Tasks Covered
 1. Create a new folder
@@ -39,10 +39,7 @@ This project demonstrates **basic File Management tasks** and **folder permissio
 4. Click **Apply → OK** to save changes  
 
 ## Screenshots
-All screenshots of tasks and permission setup are in the `Screenshots/` folder.
-
-## Notes
-Detailed steps, observations, and permission tasks are in the `File Management Lab Notes.txt` file.
+All screenshots of tasks and permission setup are in the ![Filemanagement](screenshots/)
 
 ## Conclusion
 This project helps understand basic file management and folder permission operations in Windows 10, a fundamental skill for IT support tasks.
